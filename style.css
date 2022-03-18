@@ -28,10 +28,10 @@ header nav {
 	text-align: center;
 }
 nav a:link {
-	color: #FF6D70;
+	color: #B3CDFF;
 }
 nav a:hover {
-	color: #C1AEFF;
+	color: #FFA7A9;
 }
 nav a:visited {
 	color: #92D9FA;
