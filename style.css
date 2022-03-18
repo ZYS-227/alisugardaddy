@@ -30,12 +30,6 @@ header nav {
 nav a:link {
 	color: #FF6D70;
 }
-nav a:hover {
-	color: #C1AEFF;
-}
-nav a:visited {
-	color: #92D9FA;
-}
 
 .alibabaimg {
 	width: 1024px;
